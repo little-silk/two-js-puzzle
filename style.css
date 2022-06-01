@@ -1,7 +1,7 @@
 /* My Styles */
 
 body {
-    background-color: black;
+    background-color: #202020;
     color: white;
 }
 
@@ -15,15 +15,15 @@ section {
     text-align: center;
     font-size: 3em;
   }
-  
-  quote {
+
+  p {
     text-align: center;
     font-size: 2em;
+    margin: 10px;
   }
   
-  p {
+  #hint {
     font-size: 1em;
     text-align: center;
+    margin-top: 10px;
   }
-  
-  
